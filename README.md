@@ -14,5 +14,8 @@ A computer vision project to detect and recognize **Indian vehicle number plates
 ## 🛠️ Setup
 git clone https://github.com/bhavyaboghani/Number-Plate-Detection.git
 
+## Dataset
+The dataset can be downloaded from [this website](https://universe.roboflow.com/general-wchqu/licenceplatedetector/dataset/1).
+
 ## Dependencies
 The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort).
