@@ -12,9 +12,7 @@ A computer vision project to detect and recognize **Indian vehicle number plates
 - Bounding box interpolation for missing frames
 
 ## 🛠️ Setup
-
-```bash
 git clone https://github.com/bhavyaboghani/Number-Plate-Detection.git
 
-# Dependencies
+## Dependencies
 The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort).
